@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Fragmentos</string>
+
+    <!-- Placeholder text for this example. -->
+    <string name="title1">Top peliculas</string>
+    <string name="article1">NARNIA \n La historia narra las aventuras de cuatro hermanos: Lucy, Edmund, Susan y Peter que, acceden a través de un armario mágico mientras juegan al escondite
+        \n \n EL PADRINO \n
+    Michael Corleone, heredero del imperio de don Vito Corleone, intenta rehabilitarse socialmente y legitimizar todas las posesiones de la familia </string>
+    <string name="title2">My Bonnie - Ain’t She Sweet</string>
+    <string name="article2">At the same session, the Beatles played on “My Bonnie” (the first-ever single with Beatles playing), as the backing band for English singer Tony Sheridan, originally a member of the Jets. The popularity of this single in Liverpool brought the Beatles to the attention of Brian Epstein, who worked in the NEMS record store and tried to meet demand for the disc. John Lennon then sings a fine “Ain’t She Sweet” (his first-ever released vocal).</string>
+
+    <!-- Text for the fragment. -->
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="yes_message">Narnia</string>
+    <string name="no_message">El padrino</string>
+    <string name="question_article">Elije una pelicula</string>
+
+    <!-- Text for the button in FragmentExample2. -->
+    <string name="open">Votar</string>
+    <string name="close">Emitir</string>
+
+    <!-- Text for the exception message in FragmentCommunicate. -->
+    <string name="exception_message">debe implementarse en OnFragmentInteractionListener</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="votosTitle">Votos</string>
+
+
+</resources>
